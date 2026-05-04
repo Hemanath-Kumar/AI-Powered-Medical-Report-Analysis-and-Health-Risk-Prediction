@@ -1,0 +1,25 @@
+# Web / API
+fastapi
+uvicorn
+python-multipart
+
+# System / Environment
+django-environ
+
+# AI / ML / LangChain Stack
+langchain-core
+langchain-huggingface
+langchain-openai
+openai
+transformers
+sentence-transformers
+accelerate
+bitsandbytes>=0.46.1
+huggingface_hub
+safetensors
+tokenizers
+
+# Data Processing & Utilities
+pandas
+Pillow
+pydantic

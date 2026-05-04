@@ -1,0 +1,16 @@
+async-timeout
+chromadb
+click
+cryptography
+Django
+django-cors-headers
+django-environ
+djangorestframework
+djangorestframework_simplejwt
+gunicorn
+httpx
+langchain-core
+langchain-openai
+mysqlclient
+whitenoise
+requests

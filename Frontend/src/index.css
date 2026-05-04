@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--dash-page-bg: #f8fafc;
+	--dash-card-bg: #ffffff;
+	--dash-card-border: #e2e8f0;
+	--dash-grid: #e2e8f0;
+	--dash-tick: #64748b;
+	--dash-accent-label: #0f766e;
+	--dash-text-primary: #0f172a;
+	--dash-text-secondary: #475569;
+	--dash-tooltip-bg: #ffffff;
+	--dash-empty-icon-bg: #e2e8f0;
+}
+
+.dark {
+	--dash-page-bg: #111827;
+	--dash-card-bg: #1a1f35;
+	--dash-card-border: #252d45;
+	--dash-grid: #1e2540;
+	--dash-tick: #4a5580;
+	--dash-accent-label: #2dd4bf;
+	--dash-text-primary: #e8eaf6;
+	--dash-text-secondary: #7b88b0;
+	--dash-tooltip-bg: #0d1120;
+	--dash-empty-icon-bg: #1e2a3a;
+}

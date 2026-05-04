@@ -1,0 +1,18 @@
+python manage.py runserver 0.0.0.0:8000
+http://localhost:8000 local
+
+cloudflared tunnel --url http://localhost:8000
+
+
+
+
+working!!
+
+python manage.py runserver
+cloudflared tunnel --url http://127.0.0.1:8000/
+
+Fastapi
+cloudflared tunnel --url http://127.0.0.1:8001/
+
+
+cd C:\Code\Final Year Project\Host\Render\FastAPI
